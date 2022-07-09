@@ -1,4 +1,4 @@
-## 如何引入新的MOS model到LTspice裡 
+## 如何引入新的MOS model到LTspice
 
 1.在https://ptm.asu.edu/  選擇你要用的model
 
